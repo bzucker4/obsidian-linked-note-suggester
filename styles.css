@@ -1,0 +1,27 @@
+.linked-note-modal .suggestion-row {
+  display: flex;
+  align-items: flex-start;
+  margin: 0.5em 0;
+  gap: 0.5em;
+}
+
+.linked-note-modal .suggestion-row label {
+  cursor: pointer;
+  flex: 1;
+}
+
+.linked-note-modal .suggestion-reason {
+  color: var(--text-muted);
+  font-size: 0.85em;
+  margin-top: 0.2em;
+}
+
+.linked-note-modal .modal-button-row {
+  margin-top: 1em;
+  display: flex;
+  gap: 0.5em;
+}
+
+.linked-note-modal .modal-title {
+  margin-top: 0;
+}

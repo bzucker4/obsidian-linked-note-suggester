@@ -1,0 +1,11 @@
+{
+  "id": "linked-note-suggester",
+  "name": "Linked Note Suggester",
+  "version": "1.0.0",
+  "minAppVersion": "1.5.0",
+  "description": "Suggest related notes to link based on content similarity, with review before inserting.",
+  "author": "Atlas Creative",
+  "authorUrl": "https://github.com/bzucker4",
+  "fundingUrl": "https://github.com/sponsors/bzucker4",
+  "isDesktopOnly": false
+}
